@@ -10,7 +10,7 @@ class Modules {
 
         System.out.println("Enter second number:");
         int b = sc.nextInt();
-
+h
         int mod = a % b;
 
         System.out.println("Modulus = " + mod);
